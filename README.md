@@ -33,8 +33,7 @@ YouTube provides users with a variety of functions and convenience. Junetube foc
 
 - Comment (Single/Reply)
 
--> Single Comment /
--> Single Comment / + ReplyComment /
+-> Reply Comment can be reply to Single Comment
 
 ![comment](https://user-images.githubusercontent.com/46692136/177652400-c94ee919-8d2b-4694-bf83-de0a6a721ab3.gif)
 
