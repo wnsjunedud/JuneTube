@@ -32,12 +32,14 @@ YouTube provides users with a variety of functions and convenience. Junetube foc
 ![subscribe](https://user-images.githubusercontent.com/46692136/177652412-e4cc9e67-ddda-429f-99a8-3a0d48f20d88.gif)
 
 - Comment (Single/Reply)
+
 -> Single Comment /
 -> Single Comment / + ReplyComment /
 
 ![comment](https://user-images.githubusercontent.com/46692136/177652400-c94ee919-8d2b-4694-bf83-de0a6a721ab3.gif)
 
 - Like & Dislike
+
 -> Use it for Comment
 -> Use it for Video
 
