@@ -39,8 +39,7 @@ YouTube provides users with a variety of functions and convenience. Junetube foc
 
 - Like & Dislike
 
--> Use it for Comment
--> Use it for Video
+-> Use it for Comment and Video
 
 ![likedislike](https://user-images.githubusercontent.com/46692136/177652408-1010a1d5-e30e-42ab-a26b-6e26bc3b58f4.gif)
 
